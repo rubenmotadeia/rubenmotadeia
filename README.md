@@ -4,6 +4,8 @@
 
 👋🏻 Hello, I’m Rúben
 
+🚀 Mid Level DevOps Engineer @ Blip 🐳
+
 🇵🇹 Game Developer from Portugal
 
 🎮 Currently developing a Game with a Team (Comfy Penguin Games)
