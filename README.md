@@ -16,7 +16,7 @@
 
 __________________________________________________________ 
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rubenmotadeia/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=rubenmotadeia&style=flat-square" alt="Profile views"/>
 </p>
